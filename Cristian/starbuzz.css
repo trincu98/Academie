@@ -7,6 +7,13 @@ font-family: sans-serif;
   blockquote{
     font-family: cursive;
   }
+  h2{
+    text-align: center;
+  }
+  li{
+    font-family: fantasy;
+    text-align: center;
+  }
   h1 { color:#5A6F50;
     font-family: cursive;35px;
 
